@@ -8,3 +8,5 @@ data = response.json()
 
 print("Bitcoin Price in USD:")
 print(data["bitcoin"]["usd"])
+
+
